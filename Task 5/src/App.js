@@ -1,8 +1,8 @@
 import React,{Component} from 'react';
-import Popover from './component/Popover'
+import Popover from './component/Combo'
 import Button from './component/Button'
 import Filter from './component/Filter'
-import Action from './component/Action'
+import Action from './component/Popover'
 import Pagination from './component/Pagination'
 import '@elastic/eui/dist/eui_theme_light.css';
 import { AgGridReact } from 'ag-grid-react';
